@@ -5,7 +5,7 @@ Olá, seja bem vindo 👋
 👯 Estou colaborando com... alguns projetos pessoais, e com alguns amigos da faculdade.<br>
 🤔 Está sendo excelente... tirar meu tempo para programar, poder estar trabalhando na àrea e evoluindo cada dia.<br>
 ⚡ Curiosidade: Finais de semana são usados ​​em projetos, programação e estudos.<br>
-
+##
 Tecnologias:
 <br><br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,7 +41,7 @@ Tecnologias:
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <br><br><br>
-
+##
 Minhas estatisticas:<br><br>
 ![JoaoVictorPoloniato's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorPoloniato&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 <br><br>
