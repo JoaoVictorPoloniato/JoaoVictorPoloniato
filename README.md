@@ -40,7 +40,7 @@ Tecnologias:
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-<br><br>
+<br>
 ##
 Minhas estatisticas:<br><br>
 ![JoaoVictorPoloniato's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorPoloniato&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
