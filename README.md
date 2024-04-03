@@ -43,7 +43,7 @@ Tecnologias:
 <br>
 ##
 Minhas estatisticas:<br><br>
-![JoaoVictorPoloniato's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaovictorPoloniato&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+![JoaoVictorPoloniato's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorPoloniato&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 <br><br>
 ![JoaoVictorPoloniato's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoVictorPoloniato&theme=midnight-purple&hide_border=true)
 
