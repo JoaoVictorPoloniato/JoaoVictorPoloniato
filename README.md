@@ -6,6 +6,7 @@ Olá, seja bem vindo 👋
 🤔 Está sendo excelente... tirar meu tempo para programar, poder estar trabalhando na àrea e evoluindo cada dia.<br>
 ⚡ Curiosidade: Finais de semana são usados ​​em projetos, programação e estudos.<br>
 ##
+
 Tecnologias:
 <br><br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
