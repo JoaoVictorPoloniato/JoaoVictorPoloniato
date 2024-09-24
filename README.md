@@ -1,13 +1,13 @@
 Olá, seja bem vindo 👋
 
-🔭 Atualmente estou trabalhando em... Como desenvolvedor de aplicações front end e analista de dados.<br>
-🌱 Estou estudando... JavaScript, React.js, Next.js, Python, C# e PHP<br>
-👯 Estou colaborando com... alguns projetos pessoais, e com alguns amigos da faculdade.<br>
-🤔 Está sendo excelente... tirar meu tempo para programar, poder estar trabalhando na àrea e evoluindo cada dia.<br>
-⚡ Curiosidade: Finais de semana são usados ​​em projetos, programação e estudos.<br>
+<strong>Sobre Mim:</strong>
+  - Me chamo João Victor Poloniato Buss
+  - Atualmente sou Analista de dados
+  - Estou cursando Sistema de Informação na Unemat
+  - Sou apaixonado por tecnologia. dados e automações
 ##
 
-Tecnologias:
+<strong>Algumas de minhas habilidades na área:</strong>
 <br><br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -46,14 +46,14 @@ Tecnologias:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <br>
 ##
-Minhas estatisticas:<br><br>
+<strong>Minhas estatisticas:</strong><br><br>
 ![JoaoVictorPoloniato's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorPoloniato&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 <br><br>
 ![JoaoVictorPoloniato's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoVictorPoloniato&theme=midnight-purple&hide_border=true)
 
 
 ##
-
+<strong>Meus contatos:</strong>
 <div> 
   <a href="https://instagram.com/jpoloniato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:poloniato155@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
