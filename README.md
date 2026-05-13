@@ -1,62 +1,60 @@
-Olá, seja bem vindo 👋
-
-<strong>Sobre Mim:</strong>
-  - Me chamo João Victor Poloniato Buss
-  - Atualmente sou Analista de dados
-  - Estou cursando Sistema de Informação na Unemat
-  - Sou apaixonado por tecnologia. dados e automações
-##
-
-<strong>Algumas de minhas habilidades na área:</strong>
-<br><br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-<img src="https://camo.githubusercontent.com/bb64b34d04a01cfa79658e2704085740d88e209c21905d0f5b55ebc87a83aa3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565" alt="Texto Alternativo">
-<img src="https://camo.githubusercontent.com/81521ffdf464b6ccf96d80afb03d73edac19d56d28ee212174d802bbf47ad146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465" alt="PHP">
-<img src="https://camo.githubusercontent.com/5c675f5452920ec5d27c151c9c8da848754ebf1064226745c55b07bead76223c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6172696144422d3030333534353f7374796c653d666f722d7468652d6261646765266c6f676f3d6d617269616462266c6f676f436f6c6f723d7768697465" alt="mariadb">
-<img src="https://camo.githubusercontent.com/962d06ebd5fabc44e392464f770a47947bae95440f3de3a7dbc3701c0b0c089e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c2532305365727665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465" alt="sqlserver"/> 
-<img src="https://camo.githubusercontent.com/20b9177e58a90fa0d7b42200f157f22089e4ae9f781ed98293d1de3b69486590/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465" alt="c#">
-<img src="https://camo.githubusercontent.com/7eefb2ba052806d8a9ce69863c2eeb3b03cd5935ead7bd2e9245ae2e705a1adf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" alt="linux">
-<img src="https://camo.githubusercontent.com/c292429e232884db22e86c2ea2ea7695bc49dc4ae13344003a95879eeb7425d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="windows">
-<img src="https://camo.githubusercontent.com/ecc82df7ad1688f5c619f54c0f4aa07a5ad7ef2e9a9d61a038466d987a46f98e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5669727475616c426f782d3231343136623f7374796c653d666f722d7468652d6261646765266c6f676f3d5669727475616c426f78266c6f676f436f6c6f723d7768697465" alt="vm" />
-<img src="https://camo.githubusercontent.com/513e03fc97acb466e27d445394532ade8d90363a266a4e8ff9526e2c49db0f67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" alt="vscode">
-<img src="https://camo.githubusercontent.com/a51a906f4f9c7559793b080de0384a12bb4be73204f8af967fd948fdb06d890a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f58616d70702d4633373632333f7374796c653d666f722d7468652d6261646765266c6f676f3d78616d7070266c6f676f436f6c6f723d7768697465" alt="XAMPP"/>
-<img  src="https://camo.githubusercontent.com/2e1198fc7bd5ad2717847371a5b2492f985fd23a1f91d193c8d8c409c4235959/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f2d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f266c6f676f436f6c6f723d7768697465" alt="vs">
-![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
-![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-<br>
-##
-<strong>Minhas estatisticas:</strong><br><br>
-![JoaoVictorPoloniato's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorPoloniato&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
-<br><br>
-![JoaoVictorPoloniato's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoVictorPoloniato&theme=midnight-purple&hide_border=true)
-
-
-##
-<strong>Meus contatos:</strong>
-<div> 
-  <a href="https://instagram.com/jpoloniato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:poloniato155@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joão-victor-poloniato-buss-908177164" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <h1>Hi there, I'm João Victor Poloniato 👋</h1>
+  <h3>AI Engineer | Backend Developer | Data Enthusiast</h3>
   
+  <a href="https://portfolio-joao-poloniato.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/joão-victor-poloniato-buss-908177164" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:poloniato155@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
+
+<br/>
+
+### 👨‍💻 About Me
+
+- 🤖 **Current Focus:** Developing Artificial Intelligence solutions, NLP models, and orchestrating complex LLM pipelines.
+- ⚙️ **What I do:** I build robust data pipelines, automate workflows, and serve Machine Learning models via RESTful APIs.
+- 🎓 **Education:** Bachelor's degree in Information Systems at UNEMAT.
+- 💡 **Interests:** Generative AI, Microservices Architecture, Cloud Computing, Data Engineering, and solving real-world business problems through data.
+
+<br/>
+
+### 🛠️ Tech Stack & Tools
+
+**Artificial Intelligence & Data Science**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+**Data Engineering, ETL & Databases**<br>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-333333?style=for-the-badge&logo=pentaho&logoColor=white)
+![Apache Hop](https://img.shields.io/badge/Apache_Hop-20232a?style=for-the-badge&logo=apache&logoColor=white)
+
+**Backend & APIs**<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**DevOps, Cloud & Automation**<br>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+
+**Frontend**<br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
