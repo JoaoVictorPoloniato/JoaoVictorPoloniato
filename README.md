@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm João Victor Poloniato 👋</h1>
-  <h3>AI Engineer | Backend Developer | Data Enthusiast</h3>
+  <h3>AI Engineer | Data Engineer | Data Enthusiast</h3>
   
   <a href="https://portfolio-joao-poloniato.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
